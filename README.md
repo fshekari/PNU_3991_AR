@@ -44,12 +44,10 @@
 
 ## دروس ارشد
 
-[1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/abouhamze-fahime/PNU_3991_AR/tree/gh-pages/AdvancedSoftwareEngineering)
-<br>
-[1115280_01	مدیریت پروژه نرم افزاری	3](https://github.com/abouhamze-fahime/PNU_3991_AR/tree/gh-pages/SoftwareManagement)
-<br>
 
+[1115280_01	مدیریت پروژه نرم افزاری	3](https://github.com/fshekari/PNU_3991_AR/tree/main/SoftwareManagement)
 
+<br>
 --------------
 ## روز و ساعت ارائه دروس
 
