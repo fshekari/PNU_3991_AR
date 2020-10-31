@@ -10,7 +10,7 @@
 ### فاطمه شکاری بادی
  
 ---
--  [PNU_3991_AR](https://github.com/abouhamze-fahime/PNU_3991_AR/blob/gh-pages/README.md)
+-  [PNU_3991_AR](https://github.com/fshekari/PNU_3991_AR/blob/main/README.md)
 
 - [حساب گیت هاب](https://github.com/fshekari)
 
