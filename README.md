@@ -16,7 +16,7 @@
 
 - [رزومه](https://fshekari.github.io)
 
-- [SOP](https://abouhamze-fahime.github.io/MySop/)
+- [SOP]()
 
 ------------------
 ## Winter Semester Courses 1399/2020
