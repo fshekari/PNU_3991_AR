@@ -14,7 +14,7 @@
 
 - [حساب گیت هاب](https://github.com/fshekari)
 
-- [رزومه](https://abouhamze-fahime.github.io/Resume/)
+- [رزومه](https://fshekari.github.io)
 
 - [SOP](https://abouhamze-fahime.github.io/MySop/)
 
