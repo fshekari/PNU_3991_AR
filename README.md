@@ -16,7 +16,7 @@
 
 - [رزومه](https://fshekari.github.io)
 
-- [SOP](https://github.com/fshekari/SOP/blob/main/index.html)
+- [SOP](https://github.com/fshekari/SOP)
 
 ------------------
 ## Winter Semester Courses 1399/2020
