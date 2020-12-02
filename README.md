@@ -17,10 +17,10 @@
 - [رزومه](https://fshekari.github.io)
 
 - [SOP](https://fshekari.github.io/SOP)
-- [Jlord](https://jlord)
+- [Jlord](Screenshot_۲۰۲۰۱۱۱۲-۰۲۰۵۴۵_Chrome.jpg)
 - [Java_certificate]()
-- [presentation]()
--[Latex]()
+- [presentation](persrntation project.wmv)
+-[Latex](book.tex)
 
 ------------------
 ## Winter Semester Courses 1399/2020
