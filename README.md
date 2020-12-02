@@ -17,6 +17,10 @@
 - [رزومه](https://fshekari.github.io)
 
 - [SOP](https://fshekari.github.io/SOP)
+- [Jlord](https://jlord)
+- [Java_certificate]()
+- [presentation]()
+-[Latex]()
 
 ------------------
 ## Winter Semester Courses 1399/2020
