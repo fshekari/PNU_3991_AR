@@ -21,7 +21,7 @@
 - [Java_certificate](https://github.com/fshekari/certificate/blob/main/JavaScript_certificate.jpg)
 - [presentation](https://github.com/fshekari/translation-presentation/blob/main/persrntation project.wmv)
 - [Latex](https://github.com/fshekari/latex/blob/main/book.tex)
-- [translation-chapter24] (https://github.com/fshekari/translation-presentation/blob/main/ترجمه فصل 24.pptx)
+- [translation-chapter24] (https://github.com/fshekari/translation-presentation/blob/main/translation-chapter24.pptx)
 - [translation-pages73-77] (https://github.com/fshekari/translation-presentation/blob/main/Page_73-77.docx)
 ----------------- 
 ## Winter Semester Courses 1399/2020
