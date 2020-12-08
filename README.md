@@ -20,7 +20,7 @@
 - [Jlord](https://github.com/fshekari/_jlord/blob/main/jlord1.jpg)
 - [Java_certificate](https://github.com/fshekari/certificate/blob/main/JavaScript_certificate.jpg)
 - [presentation](https://github.com/fshekari/translation-presentation/blob/main/persrntation%20project.wmv)
-- [Latex](https://github.com/fshekari/latex/blob/main/book.tex)
+- [Latex](https://github.com/fshekari/PNU_3991_AR/blob/main/book.tex)
 - [translation-chapter24](https://github.com/fshekari/translation-presentation/blob/main/translation-chapter24.pptx)
 - [translation-pages73-77](https://github.com/fshekari/translation-presentation/blob/main/Page_73-77.docx)
 ----------------- 
