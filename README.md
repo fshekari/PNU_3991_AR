@@ -28,11 +28,7 @@
 - <a href="https://fshekari.github.io/translation/Page_73-77-.pdf">[translation-pages73-77]</a>
 ----------------- 
 
-<a name="Groups"></a>
-<details>
-    <summary>گروه ها</summary>
-
- ## گروه 
+ ## 1گروه 
 
 [<kbd>↩</kbd>](#TOC)
 <a name="G-S01"></a>
