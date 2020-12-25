@@ -18,8 +18,8 @@
 - [رزومه](https://fshekari.github.io)
 
 - [SOP](https://fshekari.github.io/SOP)
-- [Jlord](https://github.com/fshekari/_jlord/blob/main/jlord1.jpg)
-- [Java_certificate](https://https://fshekari.github.io/java.html)
+- [Jlord](https://fshekari.github.io/jlord.html)
+- [Java_certificate](https://fshekari.github.io/java.html)
 - [presentation](https://www.aparat.com/v/C4f2v/%D9%85%D9%81%D8%A7%D9%87%DB%8C%D9%85_%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA_%D9%BE%D8%B1%D9%88%DA%98%D9%87)
 - [Latex](https://github.com/fshekari/PNU_3991_AR/blob/main/book.tex)
 
