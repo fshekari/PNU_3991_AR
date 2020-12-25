@@ -21,8 +21,8 @@
 - [Java_certificate](https://github.com/fshekari/certificate/blob/main/JavaScript_certificate.jpg)
 - [presentation](https://www.aparat.com/v/C4f2v/%D9%85%D9%81%D8%A7%D9%87%DB%8C%D9%85_%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA_%D9%BE%D8%B1%D9%88%DA%98%D9%87)
 - [Latex](https://github.com/fshekari/PNU_3991_AR/blob/main/book.tex)
-- [translation-chapter24](https://github.com/fshekari/translation-presentation/blob/main/translation-chapter24.pptx)
-- [translation-pages73-77](https://github.com/fshekari/translation-presentation/blob/main/Page_73-77.docx)
+- [translation-chapter24](https://github.com/fshekari/translation/blob/main/translation-chapter24.pdf)
+- [translation-pages73-77](https://github.com/fshekari/translation/blob/main/Page_73-77-.pdf)
 ----------------- 
 
 <a name="Groups"></a>
