@@ -22,7 +22,7 @@
 - [presentation](https://www.aparat.com/v/C4f2v/%D9%85%D9%81%D8%A7%D9%87%DB%8C%D9%85_%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA_%D9%BE%D8%B1%D9%88%DA%98%D9%87)
 - [Latex](https://github.com/fshekari/PNU_3991_AR/blob/main/book.tex)
 - <a href="https://github.com/fshekari/translation/blob/main/translation-chapter24.pdf">[translation-chapter24]</a>
-- [translation-pages73-77](https://github.com/fshekari/translation/blob/main/Page_73-77-.pdf)
+- <a href="https://github.com/fshekari/translation/blob/main/Page_73-77-.pdf">[translation-pages73-77]</a>
 ----------------- 
 
 <a name="Groups"></a>
