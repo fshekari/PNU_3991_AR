@@ -32,7 +32,7 @@
 <details>
     <summary>گروه ها</summary>
 
-> ## گروه 
+ ## گروه 
 
 [<kbd>↩</kbd>](#TOC)
 <a name="G-S01"></a>
