@@ -33,7 +33,7 @@
 
 - [خلاصه ارزیابی درس_مدیریت پروژه های نرم افزاری](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SZ_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
 
-------------------
+-------------------
 ## سیاهه ارزشیابی درس
     
 <details>
