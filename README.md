@@ -2,10 +2,6 @@
 # PNU_3991_AR
 ---------
 
-![Project ](https://github.com/fshekari/PNU_3991_AR/SoftwareManagement/jsw-header-illustrations---v3.png)
-
-
-
 <div dir="rtl">
 
 ### فاطمه شکاری بادی
