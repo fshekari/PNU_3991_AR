@@ -26,8 +26,8 @@
 > ارزیابی ها
 
 ##  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](https://fshekari.github.io/sot.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://fshekari.github.io/resome.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://fshekari.github.io/sot&resome.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://fshekari.github.io/omoomi.pdf)
 
 ##  بخش دروس ارشد
 
