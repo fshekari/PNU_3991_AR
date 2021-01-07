@@ -27,6 +27,17 @@
 - <a href="https://fshekari.github.io/translation/translation-chapter24.pdf">[translation-chapter24]</a>
 - <a href="https://fshekari.github.io/translation/Page_73-77-.pdf">[translation-pages73-77]</a>
 ----------------- 
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه]
+- [خلاصه ارزیابی بخش عمومی]
+
+##  بخش دروس ارشد
+
+- [خلاصه ارزیابی درس_مدیریت پروژه های نرم افزاری](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SZ_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
+
+------------------
 ## سیاهه ارزشیابی درس
     
 <details>
@@ -82,11 +93,9 @@
     1. [_SPM-04_محمد امانعليخاني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/1115272_01/04_%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%85%D8%A7%D9%86%D8%B9%D9%84%D9%8A%D8%AE%D8%A7%D9%86%D9%8A)
     
 
-
 ## دروس ارشد
 
-
-[1115280_01	مدیریت پروژه نرم افزاری	3](https://github.com/fshekari/PNU_3991_AR/tree/main/SoftwareManagement)
+[1115280_01	مدیریت پروژه نرم افزاری	](https://github.com/fshekari/PNU_3991_AR/tree/main/SoftwareManagement)
 
 <br>
 --------------
