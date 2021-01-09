@@ -29,9 +29,10 @@
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/fshekari/PNU_3991_AR/blob/main/_General/FSH_CV_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی بخش عمومی](https://github.com/fshekari/PNU_3991_AR/blob/main/_General/FSH_GeneralSection_CheckList_AR_3991.pdf)
 
+
 ##  بخش دروس ارشد
 
-- [خلاصه ارزیابی درس_مدیریت پروژه های نرم افزاری](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SZ_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_مدیریت پروژه های نرم افزاری](https://github.com/fshekari/PNU_3991_AR/blob/main/SoftwareManagement/FSH_SoftwareProjectManagement_CheckList_AR_3991.pdf)
 
 -------------------
 ## سیاهه ارزشیابی درس
