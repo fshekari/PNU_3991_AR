@@ -23,6 +23,10 @@
 - <a href="https://fshekari.github.io/translation/translation-chapter24.pdf">[translation-chapter24]</a>
 - <a href="https://fshekari.github.io/translation/Page_73-77-.pdf">[translation-pages73-77]</a>
 ----------------- 
+پروژه کوچک
+
+- [PRJ_TeamWorking](https://github.com/AliRazavi-edu/PRJ_TeamWorking)
+---------------
 > ارزیابی ها
 
 ##  بخش عمومی
